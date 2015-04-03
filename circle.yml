@@ -1,6 +1,6 @@
 general:
   artifacts:
-  	- "target/HelloWorld.war"
+    - "target/HelloWorld.war"
 dependencies:
   post:
     - mvn clean install
