@@ -1,0 +1,3 @@
+dependencies:
+  post:
+    - mvn clean install
